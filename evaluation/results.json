@@ -1,0 +1,110 @@
+[
+  {
+    "prompt": "Build a CRM for a real estate agency. Agents manage leads, properties, and deals. Admin sees analytics. WhatsApp notifications when a deal closes.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1146,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "Task manager for an engineering team. Tasks have due dates, assignees, priorities, and status. Team lead gets a Slack message when a task is overdue.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1153,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "Inventory system for a warehouse. Products, stock movements, suppliers. Low stock triggers an email alert.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1286,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "HR tool for a 50-person company. Track employees, leave requests, and performance reviews. Notify manager on Slack when leave is approved.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1170,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "E-commerce backend. Products, orders, customers, payments via Stripe. Order confirmation sent via Gmail.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 794,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "Event management platform. Organizers create events, attendees register. Confirmation via WhatsApp.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1091,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "Project tracker. Projects, milestones, tasks. Sync tasks to Jira.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1773,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "An app.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 141,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "Build something like Notion for doctors.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1105,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "A platform with login, payments, roles, real-time chat, file uploads, analytics, and a marketplace.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 469,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "A CRM but also a project manager but also an invoicing tool.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 177,
+    "costUSD": 0.001
+  },
+  {
+    "prompt": "Task manager, but make it smart.",
+    "success": true,
+    "stageFailed": null,
+    "repairStrategy": "structural",
+    "retryCount": 0,
+    "latencyMs": 1078,
+    "costUSD": 0.001
+  }
+]
